@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data
+## Getting-and-Cleaning-Data
 ###Final Project
 The data used in this project is from a study conducted by Samsung that records subjects performance in in daily living activities with a waist-mounted smartphone with inertial sensors. Data set and a full description of it can be obtained through UCLA Machine Learning Repository:
 [DataLink](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
