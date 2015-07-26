@@ -1,8 +1,8 @@
 ## Getting-and-Cleaning-Data
 ###Final Project
 The data used in this project is collected in a study conducted by Samsung to evaluate subjects' performance in in daily living activities with a waist-mounted smartphone with inertial sensors. The data and a full description of it can be obtained through UCLA Machine Learning Repository:
-[DataLink](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). 
-\s The idea of this project is to collect and create a tidy data from a several data sets that can be used for later analysis. The steps of doing the project are a follows:
+[DataLink](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).--
+The idea of this project is to collect and create a tidy data from a several data sets that can be used for later analysis. The steps of doing the project are a follows:
 ####step 1####
 X_test and X_train data sets contain information of 561 features with time and frequency domain variables for test and train groups of participants. These two datasets were first merged by rbind function since they have the same format, just for different subjects.
 ####step 2####
